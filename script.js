@@ -152,6 +152,7 @@ $(document).ready(function() {
           }
           
           $("#today .card-body").append(uv.append(btn));
+          console.log(data)
         }
       });
     }
