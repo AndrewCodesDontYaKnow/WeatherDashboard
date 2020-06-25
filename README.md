@@ -6,4 +6,4 @@ URL: https://andrewcodesdontyaknow.github.io/WeatherDashboard/
 
 
 Screenshot:
-<img src="/Users/andrewsmith/Desktop/WeatherDashboard_screenshot.png">
+<img width="720px" src="https://github.com/AndrewCodesDontYaKnow/WeatherDashboard/blob/master/Assets/WeatherDashboard_screenshot.png?raw=true">
